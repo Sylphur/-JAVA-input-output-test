@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+// Took destination of .txt file from console. Then sort it into ascending order and print even of all numbers
 
 public class scratch {
     public static void main(String[] args) {
